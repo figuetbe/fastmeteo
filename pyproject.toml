@@ -3,7 +3,7 @@ name = "fastmeteo"
 description = "Fast interpolation for ERA5 data with Zarr"
 version = "0.2.1"
 authors = ["Junzi Sun <j.sun-1@tudelft.nl>"]
-license = { file = "LICENSE" }
+license = { file = "LICENSE", "GNU Lesser General Public License v3 (LGPLv3)" }
 readme = "readme.md"
 requires-python = ">=3.11"
 dependencies = [
